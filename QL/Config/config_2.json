@@ -1,0 +1,19 @@
+{  
+   "nagents": 30,
+   "capacity": 500,
+   "learningrate": 0.01,
+   "momentum": 0.005,
+   "eps_max": 1,
+   "eps_min": 0.05,
+   "eps_decay": 0.0005,
+   "eps_increment": 0.003,
+   "batch_size": 8,
+   "gamma": 0.9,
+   "nepisodes": 30,
+   "nsteps": 300,
+   "nupdate": 50,
+   "cuda":0,
+   "mob" :1,
+   "mob_p" :30,
+   "alpha": 0.4
+}

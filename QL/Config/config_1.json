@@ -1,0 +1,16 @@
+{  
+   "nMBS": 1,
+   "nPBS": 2,
+   "nFBS": 4,
+   "rMBS": 500,
+   "rPBS": 200,
+   "rFBS": 100,
+   "BW": 180000,
+   "nChannel": 25,
+   "N0": -174,
+   "profit": 0.5,
+   "power_cost": 0.0005,
+   "action_cost": 0.001,
+   "negative_cost": -1.0,
+   "QoS_thr": 5
+}
