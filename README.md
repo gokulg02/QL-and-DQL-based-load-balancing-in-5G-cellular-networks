@@ -1,4 +1,8 @@
 # QL and DQL based load balancing in 5G HetNets
+
+This repo consists of the official implementation of the below publication:
+
+Ramesh, P., Bhuvaneswari, P.T.V., Dhanushree, V.S. et al. User association-based load balancing using reinforcement learning in 5G heterogeneous networks. J Supercomput 81, 328 (2025). [https://doi.org/10.1007/s11227-024-06788-1](https://doi.org/10.1007/s11227-024-06788-1)
  
 ## Summary
 
